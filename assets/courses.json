@@ -1,0 +1,452 @@
+[
+  {
+    "course_name": "Brea Golf Course",
+    "address": "501 W Fir St",
+    "city": "Brea",
+    "state": "CA",
+    "postal_code": "92821",
+    "location": {
+      "lat": 33.911547,
+      "long": -117.907399
+    },
+    "phone": "(714) 529-3003",
+    "holes": 9,
+    "avg_cost": "$9 - $18",
+    "logo": "https://images.vexels.com/media/users/3/130647/isolated/preview/882b5b6080ea4145a74c5108fcd6b362-golf-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Birch Hills Golf Course",
+    "address": "2250 E Birch St",
+    "city": "Brea",
+    "state": "CA",
+    "postal_code": "92821",
+    "location": {
+      "lat": 33.917008,
+      "long": -117.866869
+    },
+    "phone": "(714) 990-0201",
+    "holes": 18,
+    "avg_cost": "$11 - $24",
+    "logo": "https://holycrosshs.org/wp-content/uploads/2017/03/HolyCross-Golf-logo.png"
+  },
+  {
+    "course_name": "San Luis Rey Downs Golf & Country Club",
+    "address": "31474 Golf Club Dr",
+    "city": "Bonsall",
+    "state": "CA",
+    "postal_code": "92003",
+    "location": {
+      "lat": 33.286719,
+      "long": -117.212793
+    },
+    "phone": "(760) 758-9699",
+    "holes": 18,
+    "avg_cost": "$34 - $64",
+    "logo": "https://images.vexels.com/media/users/3/167688/isolated/preview/d748fc4d19bb1f0120c1e079a712afd1-golf-club-crown-player-club-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Boulder Creek Golf & Country Club",
+    "address": "16901 Big Basin Hwy",
+    "city": "Boulder Creek",
+    "state": "CA",
+    "postal_code": "95006",
+    "location": {
+      "lat": 37.1538084,
+      "long": -122.1614662
+    },
+    "phone": "(831) 338-2121",
+    "holes": 18,
+    "avg_cost": "$22 - $40",
+    "logo": "https://images.vexels.com/media/users/3/167681/isolated/preview/e7feadeda7c5852d486e140167a9b4a0-golf-club-club-ball-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Road Runner Club",
+    "address": "1010 Palm Canyon Dr",
+    "city": "Borrego Springs",
+    "state": "CA",
+    "postal_code": "92004",
+    "location": {
+      "lat": 33.260928,
+      "long": -116.361555
+    },
+    "phone": "(760) 767-5374",
+    "holes": 18,
+    "avg_cost": "$20 ",
+    "logo": "https://f0.pngfuel.com/png/979/392/mini-golf-logo-png-clip-art.png"
+  },
+  {
+    "course_name": "Rams Hill Country Club",
+    "address": "1881 Rams Hill Rd",
+    "city": "Borrego Springs",
+    "state": "CA",
+    "postal_code": "92004",
+    "location": {
+      "lat": 33.193944,
+      "long": -116.323749
+    },
+    "phone": "(760) 767-5125",
+    "holes": 18,
+    "avg_cost": "",
+    "logo": "https://www.freepnglogos.com/uploads/supreme-logo-png/press-supreme-golf-logo-10.png"
+  },
+  {
+    "course_name": "De Anza Desert Country Club",
+    "address": "509 Catarina Dr",
+    "city": "Borrego Springs",
+    "state": "CA",
+    "postal_code": "92004",
+    "location": {
+      "lat": 33.2906213,
+      "long": -116.3845555
+    },
+    "phone": "(760) 767-5577",
+    "holes": 18,
+    "avg_cost": "$60 ",
+    "logo": "https://static.wixstatic.com/media/adb321_1fab8f972a8b4b948cca667758f54fdf~mv2_d_4586_4032_s_4_2.png/v1/fill/w_453,h_397,al_c,q_80,usm_0.66_1.00_0.01/coffee%20hour%20logo.webp"
+  },
+  {
+    "course_name": "Club Circle Golf Course",
+    "address": "Club Cir W",
+    "city": "Borrego Springs",
+    "state": "CA",
+    "postal_code": "92004",
+    "location": {
+      "lat": 33.2331402,
+      "long": -116.3580356
+    },
+    "phone": "(858) 454-2873",
+    "holes": 9,
+    "avg_cost": "$12 ",
+    "logo": "https://images.vexels.com/media/users/3/130647/isolated/preview/882b5b6080ea4145a74c5108fcd6b362-golf-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Palms Course at Borrego Springs Resort & Country Club",
+    "address": "1112 Titling T Dr",
+    "city": "Borrego Springs",
+    "state": "CA",
+    "postal_code": "92004",
+    "location": {
+      "lat": 33.2558717,
+      "long": -116.375012
+    },
+    "phone": "(760) 767-3330",
+    "holes": 27,
+    "avg_cost": "$35 - $64",
+    "logo": "https://holycrosshs.org/wp-content/uploads/2017/03/HolyCross-Golf-logo.png"
+  },
+  {
+    "course_name": "Chula Vista Golf Course",
+    "address": "4475 Bonita Rd",
+    "city": "Bonita",
+    "state": "CA",
+    "postal_code": "91902",
+    "location": {
+      "lat": 32.6625375,
+      "long": -117.0284627
+    },
+    "phone": "(619) 479-4141",
+    "holes": 18,
+    "avg_cost": "$11.50 - $28",
+    "logo": "https://images.vexels.com/media/users/3/167688/isolated/preview/d748fc4d19bb1f0120c1e079a712afd1-golf-club-crown-player-club-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Bonita Golf Club",
+    "address": "5540 Sweetwater Rd",
+    "city": "Bonita",
+    "state": "CA",
+    "postal_code": "91902",
+    "location": {
+      "lat": 32.680075,
+      "long": -117.013532
+    },
+    "phone": "(619) 267-1103",
+    "holes": 18,
+    "avg_cost": "$12 - $28",
+    "logo": "https://images.vexels.com/media/users/3/167681/isolated/preview/e7feadeda7c5852d486e140167a9b4a0-golf-club-club-ball-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Feather River Park Resort",
+    "address": "8339 California 89",
+    "city": "Blairsden",
+    "state": "CA",
+    "postal_code": "96103",
+    "location": {
+      "lat": 39.7781247,
+      "long": -120.62121
+    },
+    "phone": "(530) 836-2328",
+    "holes": 9,
+    "avg_cost": "$16 -$18",
+    "logo": "https://f0.pngfuel.com/png/979/392/mini-golf-logo-png-clip-art.png"
+  },
+  {
+    "course_name": "Feather River Inn Golf Club & Resort",
+    "address": "Hwy 70 at Feather River Inn Rd",
+    "city": "Blairsden",
+    "state": "CA",
+    "postal_code": "96103",
+    "location": {
+      "lat": 39.7810095,
+      "long": -120.6166077
+    },
+    "phone": "(530) 836-2722",
+    "holes": 9,
+    "avg_cost": "$12 - $18",
+    "logo": "https://www.freepnglogos.com/uploads/supreme-logo-png/press-supreme-golf-logo-10.png"
+  },
+  {
+    "course_name": "Bodega Harbour Golf Links",
+    "address": "21301 Heron Dr",
+    "city": "Bodega Bay",
+    "state": "CA",
+    "postal_code": "94923",
+    "location": {
+      "lat": 38.3137945,
+      "long": -123.0275894
+    },
+    "phone": "(707) 875-3538",
+    "holes": 18,
+    "avg_cost": "$60 - $90",
+    "logo": "https://static.wixstatic.com/media/adb321_1fab8f972a8b4b948cca667758f54fdf~mv2_d_4586_4032_s_4_2.png/v1/fill/w_453,h_397,al_c,q_80,usm_0.66_1.00_0.01/coffee%20hour%20logo.webp"
+  },
+  {
+    "course_name": "Blythe Golf Course",
+    "address": "4708 W Wells Rd",
+    "city": "Blythe",
+    "state": "CA",
+    "postal_code": "92225",
+    "location": {
+      "lat": 33.6684865,
+      "long": -114.6296262
+    },
+    "phone": "(760) 922-4572",
+    "holes": 18,
+    "avg_cost": "$10 - $20",
+    "logo": "https://images.vexels.com/media/users/3/130647/isolated/preview/882b5b6080ea4145a74c5108fcd6b362-golf-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Bishop Country Club",
+    "address": "200 U.S. 395",
+    "city": "Bishop",
+    "state": "CA",
+    "postal_code": "93514",
+    "location": {
+      "lat": 37.3621701,
+      "long": -118.3952127
+    },
+    "phone": "(760) 873-5828",
+    "holes": 18,
+    "avg_cost": "$20 - $32",
+    "logo": "https://holycrosshs.org/wp-content/uploads/2017/03/HolyCross-Golf-logo.png"
+  },
+  {
+    "course_name": "Big Bear Mountain Golf Course",
+    "address": "43100 Goldmine Dr",
+    "city": "Big Bear Lake",
+    "state": "CA",
+    "postal_code": "92305",
+    "location": {
+      "lat": 34.228427,
+      "long": -116.8614161
+    },
+    "phone": "(909) 585-8002",
+    "holes": 9,
+    "avg_cost": "$20 - $32",
+    "logo": "https://images.vexels.com/media/users/3/167688/isolated/preview/d748fc4d19bb1f0120c1e079a712afd1-golf-club-crown-player-club-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Bethel Island Club, The",
+    "address": "3303 Gateway Rd",
+    "city": "Bethel Island",
+    "state": "CA",
+    "postal_code": "94511",
+    "location": {
+      "lat": 38.0195446,
+      "long": -121.6366347
+    },
+    "phone": "(925) 684-2654",
+    "holes": 18,
+    "avg_cost": "$10 - $22",
+    "logo": "https://images.vexels.com/media/users/3/167681/isolated/preview/e7feadeda7c5852d486e140167a9b4a0-golf-club-club-ball-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Tilden Park Golf Course",
+    "address": "Grizzly Peak Blvd &amp; Shasta Rd",
+    "city": "Berkeley",
+    "state": "CA",
+    "postal_code": "94708",
+    "location": {
+      "lat": 37.8899644,
+      "long": -122.2522288
+    },
+    "phone": "(510) 848-7373",
+    "holes": 18,
+    "avg_cost": "$32 - $55",
+    "logo": "https://f0.pngfuel.com/png/979/392/mini-golf-logo-png-clip-art.png"
+  },
+  {
+    "course_name": "First Nine/Second Nine Course at Bermuda Dunes Country Club",
+    "address": "42360 Adams St",
+    "city": "Bermuda Dunes",
+    "state": "CA",
+    "postal_code": "92203",
+    "location": {
+      "lat": 33.7371989,
+      "long": -116.279986
+    },
+    "phone": "(760) 360-2481",
+    "holes": 27,
+    "avg_cost": "$80 ",
+    "logo": "https://www.freepnglogos.com/uploads/supreme-logo-png/press-supreme-golf-logo-10.png"
+  },
+  {
+    "course_name": "Ford Park Golf Course",
+    "address": "8000 Park Ln",
+    "city": "Bell Gardens",
+    "state": "CA",
+    "postal_code": "90201",
+    "location": {
+      "lat": 33.958943,
+      "long": -118.150641
+    },
+    "phone": "(562) 927-8811",
+    "holes": 9,
+    "avg_cost": "$3.75 - $4",
+    "logo": "https://static.wixstatic.com/media/adb321_1fab8f972a8b4b948cca667758f54fdf~mv2_d_4586_4032_s_4_2.png/v1/fill/w_453,h_397,al_c,q_80,usm_0.66_1.00_0.01/coffee%20hour%20logo.webp"
+  },
+  {
+    "course_name": "RECCE Point Golf Course",
+    "address": "17350 Warren Shingle Rd",
+    "city": "Beale AFB",
+    "state": "CA",
+    "postal_code": "95903",
+    "location": {
+      "lat": 39.11299,
+      "long": -121.4080001
+    },
+    "phone": "(530) 788-0192",
+    "holes": 18,
+    "avg_cost": "$12 - $20",
+    "logo": "https://images.vexels.com/media/users/3/130647/isolated/preview/882b5b6080ea4145a74c5108fcd6b362-golf-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Legends Course at PGA of Southern California at Oak Valley",
+    "address": "36211 Champions Dr",
+    "city": "Beaumont",
+    "state": "CA",
+    "postal_code": "92223",
+    "location": {
+      "lat": 33.951794,
+      "long": -117.030327
+    },
+    "phone": "(877) 742-2500",
+    "holes": 36,
+    "avg_cost": "$55 - $75",
+    "logo": "https://holycrosshs.org/wp-content/uploads/2017/03/HolyCross-Golf-logo.png"
+  },
+  {
+    "course_name": "Oak Valley Golf Club",
+    "address": "1888 Golf Club Dr",
+    "city": "Beaumont",
+    "state": "CA",
+    "postal_code": "92223",
+    "location": {
+      "lat": 33.9489887,
+      "long": -117.0024201
+    },
+    "phone": "(909) 769-7200",
+    "holes": 18,
+    "avg_cost": "$50 - $75",
+    "logo": "https://images.vexels.com/media/users/3/167688/isolated/preview/d748fc4d19bb1f0120c1e079a712afd1-golf-club-crown-player-club-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Tees & Trees Golf Course",
+    "address": "Marine Corps Logistics Base Barstow",
+    "city": "Barstow",
+    "state": "CA",
+    "postal_code": "92311",
+    "location": {
+      "lat": 34.868511,
+      "long": -116.9558067
+    },
+    "phone": "(760) 577-6431",
+    "holes": 9,
+    "avg_cost": "$7 - $13",
+    "logo": "https://images.vexels.com/media/users/3/167681/isolated/preview/e7feadeda7c5852d486e140167a9b4a0-golf-club-club-ball-logo-by-vexels.png"
+  },
+  {
+    "course_name": "Barstow Country Club",
+    "address": "2781 Country Club Dr",
+    "city": "Barstow",
+    "state": "CA",
+    "postal_code": "92311",
+    "location": {
+      "lat": 34.85199,
+      "long": -117.128677
+    },
+    "phone": "(760) 253-5201",
+    "holes": 9,
+    "avg_cost": "$7 - $20",
+    "logo": "https://f0.pngfuel.com/png/979/392/mini-golf-logo-png-clip-art.png"
+  },
+  {
+    "course_name": "1 Country Club Rd",
+    "address": "Country Club Dr",
+    "city": "Avalon",
+    "state": "CA",
+    "postal_code": "90704",
+    "location": {
+      "lat": 33.3412686,
+      "long": -118.3319978
+    },
+    "phone": "(310) 510-0530",
+    "holes": 9,
+    "avg_cost": "$27 - $48",
+    "logo": "https://www.freepnglogos.com/uploads/supreme-logo-png/press-supreme-golf-logo-10.png"
+  },
+  {
+    "course_name": "Sun Lakes Country Club Executive Course",
+    "address": "545 Twin Hills Dr",
+    "city": "Banning",
+    "state": "CA",
+    "postal_code": "92220",
+    "location": {
+      "lat": 33.9216399,
+      "long": -116.935726
+    },
+    "phone": "(909) 769-8444",
+    "holes": 9,
+    "avg_cost": "$8 - $16",
+    "logo": "https://static.wixstatic.com/media/adb321_1fab8f972a8b4b948cca667758f54fdf~mv2_d_4586_4032_s_4_2.png/v1/fill/w_453,h_397,al_c,q_80,usm_0.66_1.00_0.01/coffee%20hour%20logo.webp"
+  },
+  {
+    "course_name": "Sun Lakes Country Club",
+    "address": "850 Country Club Dr",
+    "city": "Banning",
+    "state": "CA",
+    "postal_code": "92220",
+    "location": {
+      "lat": 33.917327,
+      "long": -116.939832
+    },
+    "phone": "(909) 845-2135",
+    "holes": 18,
+    "avg_cost": "$32 - $50",
+    "logo": "https://holycrosshs.org/wp-content/uploads/2017/03/HolyCross-Golf-logo.png"
+  },
+  {
+    "course_name": "Sundale Country Club",
+    "address": "6218 Sundale Ave",
+    "city": "Bakersfield",
+    "state": "CA",
+    "postal_code": "93309",
+    "location": {
+      "lat": 35.346161,
+      "long": -119.069673
+    },
+    "phone": "(661) 831-5224",
+    "holes": 18,
+    "avg_cost": "$15 - $30",
+    "logo": "https://images.vexels.com/media/users/3/130647/isolated/preview/882b5b6080ea4145a74c5108fcd6b362-golf-logo-by-vexels.png"
+  }
+]
